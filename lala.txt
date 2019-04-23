@@ -1,3 +1,12 @@
 llllllllll
 this is sa dev ,not master;
+<<<<<<< HEAD
 xixixiw s master
+you are pig!!
+=======
+aiaiaiaiai
+master: modify.
+haoba
+hahaha
+branch feature1
+>>>>>>> feature1
